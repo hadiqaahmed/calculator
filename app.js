@@ -25,7 +25,7 @@
     });
  
 
-    clear.addEventHandler('clear', function(e){
+    clear.addEventHandler('click', function(e){
         screen.value = " ";
     });
     
